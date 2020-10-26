@@ -1,7 +1,7 @@
-# restaurant
+# Restaurant Uygulaması
 
 <ul>
-<li>elmalar</li>
-<li>portakallar</li>
-<li>üzümler</li>
+<li>Ürünler</li>
+<li>Üyeler</li>
+<li>Satışlar</li>
 </ul>
