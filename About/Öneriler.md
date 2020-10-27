@@ -4,3 +4,5 @@
 - Editörler : [StackEdit](https://stackedit.io/app) , [VisualStudioCode](https://code.visualstudio.com/)    
 2. Başlangıç olarak web uygulaması olarak geliştirilmesi hedeflendiğinden proje **ASP.Net Core** olarak oluşturulacaktır. Derlemede sıkıntı olmaması açısından **Visual Studio 2019** programını kullanalım.  
 - [Visual Studio](https://visualstudio.microsoft.com/tr/vs/)  
+3. Kullanılması muhtemel teknolojiler(Araştırılmasında fayda var) :  
+>>- C#,HTML,CSS,JavaScript,TSQL,Asp.Net MVC
