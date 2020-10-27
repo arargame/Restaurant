@@ -1,3 +1,5 @@
-###### Heading level 6
-GitHub üzerinde daha şık ve düzenli görünüm elde etmek için "Markdown" dilinin öğrenilmesi araştırılması
-https://www.markdownguide.org/basic-syntax/
+### Ã–neriler
+1. GitHub Ã¼zerinde daha ÅŸÄ±k ve dÃ¼zenli gÃ¶rÃ¼nÃ¼m elde etmek iÃ§in **Markdown** dilinin Ã¶ÄŸrenilmesi araÅŸtÄ±rÄ±lmasÄ±  
+- Syntax : [MarkDownGuide](https://www.markdownguide.org/basic-syntax/)  
+- EditÃ¶rler : [StackEdit](https://stackedit.io/app) , [VisualStudioCode](https://code.visualstudio.com/)    
+2. BaÅŸlangÄ±Ã§ olarak web uygulamasÄ± olarak geliÅŸtirilmesi hedeflendiÄŸinden 
