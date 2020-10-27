@@ -1,3 +1,4 @@
+![catering](https://www.w3schools.com/w3images/tablesetting.jpg)
 # Restoran Uygulaması
 
 Günlük değişen veya sabit ürünleri(gıda) olan restoran,yemekhane,kafeterya,lokanta,catering gibi firmaların kullanabileceği sipariş verilebilen,müşteri etkileşimli bir hizmet.
